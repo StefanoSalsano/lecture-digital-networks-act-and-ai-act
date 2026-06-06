@@ -25,11 +25,11 @@ La lezione (2 ore) copre due dossier del digitale europeo, letti dal punto di vi
 | `docs/` | Radice del sito GitHub Pages |
 | `docs/index.html` | Pagina della lezione (player audio inclusi) |
 | `docs/slides/` | Presentazione: PowerPoint (37 slide) e PDF |
-| `docs/materiali/` | Traccia discorsiva per il docente (Word) |
 | `docs/podcast/` | Due puntate audio (MP3) con trascrizioni: Ep. 1 sul DNA (13:37), Ep. 2 sull'AI Act (13:05) |
 
 I podcast sono conversazioni a due voci generate con sintesi vocale neurale a partire da un copione
-redatto per la lezione.
+redatto per la lezione. La traccia discorsiva per il docente è disponibile su richiesta contattando
+l'autore. I materiali sono stati realizzati con il supporto di Claude (modello Opus 4.8, Anthropic).
 
 ## Fonti principali
 
