@@ -3,8 +3,8 @@
 Materiali della lezione tenuta da **Stefano Salsano** (Università di Roma "Tor Vergata" / CNIT) al
 **Master di II Livello in Relazioni Istituzionali e Lobbying — LUMSA**, 6 giugno 2026.
 
-**Sito della lezione:** la pagina pubblicata con GitHub Pages presenta tutti i materiali,
-con player audio integrato per i due podcast.
+**➡ Sito della lezione: <https://stefanosalsano.github.io/lecture-digital-networks-act-and-ai-act/>**
+— tutti i materiali, con player audio integrato per i due podcast.
 
 ## Contenuti
 
@@ -30,11 +30,6 @@ La lezione (2 ore) copre due dossier del digitale europeo, letti dal punto di vi
 
 I podcast sono conversazioni a due voci generate con sintesi vocale neurale a partire da un copione
 redatto per la lezione.
-
-## GitHub Pages
-
-Il sito si pubblica da: Settings → Pages → *Deploy from a branch* → branch `main`, cartella `/docs` → Save.
-URL: `https://<username>.github.io/lecture-digital-networks-act-and-ai-act/`.
 
 ## Fonti principali
 
